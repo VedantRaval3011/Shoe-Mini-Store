@@ -1,6 +1,5 @@
 
 
-![Demo App](/frontend/public/screenshot.png)
 
 
 
